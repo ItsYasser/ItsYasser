@@ -1,20 +1,4 @@
-<!-- ### Hi there 👋 -->
 
-<!--
-**ItsYasser/ItsYasser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ItsYasser.ItsYasser"> -->
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -40,19 +24,22 @@ Here are some ideas to get you started:
 </p>
 <h3 align="center">About Me</h3>
 <p align="center">
-  Hi, I'm Yasser Harzelli, A Computer Science student & a Mobile Applications Developer from Algeria 
+  💡 Give me a problem, constraints, and context — code is the easy part.  
+  <br><br>
+  👨‍💻 I’m a software engineer who sees software as more than just code. I believe that once the right design and architecture are in place, writing code becomes the easy part. I enjoy turning ideas into practical, maintainable solutions that actually work in the real world.  
+  <br><br>
+  📱 I started as a mobile developer, building real products for real users. Over time, I moved into a tech lead role, taking responsibility for technical decisions, system design, and helping teams move in the right direction.  
+  <br><br>
+  🔭 Currently interested in:  
   <br>
+  - 🏗️ System design & architecture  
+  - 🌐 SaaS businesses  
+  - 💻 Full-stack web development  
+  - 🧩 Solving coding challenges  
   <br>
-  🎓 I graduated with a computer science Degree from the university.
-  <br>
-  🔬 I'm currently studying for a master's degree in software engineering in USTHB.
-  <br>
-  💻 I love writing code, solving problems, learning new things and facing the challenges that comes with it.
-  <br>
-  🔎 I’m currently looking for a new opportunities
-  <br>
-  💬 Feel Free To Contact Me For Anything !
+  🤝 I’m always happy to connect, chat about software, or share ideas. I speak Arabic, English, and French — just say hi!  
 </p>
+
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
 <br>
